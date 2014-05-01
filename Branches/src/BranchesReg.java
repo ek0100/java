@@ -1,5 +1,3 @@
-//Edward Kessling
-//IST 2720
 //Chapter 1 Pg. 42 1.2.3
 //January 21, 2014
 
